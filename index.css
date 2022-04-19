@@ -148,7 +148,10 @@ nav a:hover{
 .contacto{
   display: flex;
   justify-content: flex-end;
-  
+}
+
+.contacto li{
+  display:inline;
 }
 
 .fa {
